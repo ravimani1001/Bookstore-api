@@ -2,7 +2,11 @@
 
 An intermediate level **Node.js RESTful API** that manages a Bookstore system using **PostgreSQL** as the database. This project follows MVC structure and uses **Express.js**, **pg (node-postgres)**, and **Railway** for database hosting.
 
----
+
+## 🔗 Live API Endpoint
+
+Deployed on Railway: [https://bookstore-api-production-f99a.up.railway.app/](https://bookstore-api-production-f99a.up.railway.app/)
+
 
 ## ✅ Features
 
